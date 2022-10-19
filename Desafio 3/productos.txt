@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Iphone 13",
+    "precio": 1000,
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-3-202203?wid=364&hei=333&fmt=png-alpha&.v=1644988094612",
+    "id": 1
+  },
+  {
+    "nombre": "Iphone 12",
+    "precio": 1000,
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-3-202203?wid=364&hei=333&fmt=png-alpha&.v=1644988094612",
+    "id": 2
+  },
+  {
+    "nombre": "Iphone 11",
+    "precio": 1000,
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-3-202203?wid=364&hei=333&fmt=png-alpha&.v=1644988094612",
+    "id": 3
+  }
+]
